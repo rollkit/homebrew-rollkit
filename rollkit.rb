@@ -2,7 +2,7 @@ class Rollkit < Formula
 	desc "CLI tool for Rollkit"
 	homepage "https://rollkit.dev"
 	url "https://github.com/rollkit/rollkit/archive/refs/tags/v0.13.2.tar.gz"
-	sha256 "checksum_of_your_tool"
+	sha256 "07e82abe71212523c230c141e0d60aedf4a999574555b448e470a3722bbd1ecf"
       
 	# If needed, specify dependencies
 	# depends_on "dependency"
